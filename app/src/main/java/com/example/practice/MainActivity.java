@@ -11,6 +11,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("Gurpreet is a bad driver");
-        System.out.println("Jeffrey is a good driver and he drives a lexus");
     }
 }
